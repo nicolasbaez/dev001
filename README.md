@@ -9,8 +9,12 @@ Acá voy a empezar a poner **t o o o d o o o** lo que haga en el canal y estoy e
 
 Cómo funciona?
 
-1. Copias y pegas las instrucciones en tu archivo
-2. Guardas 
-3. y... DEBERÍA funcionar!
+1. Abres un bloc de notas en blanco (Recomiendo Notepad++)
+2. Copias y pegas las instrucciones en tu archivo
+3. Guardas
+  - En tipo de archivo seleccionas (TODOS LOS ARCHIVOS)
+  - Ponle como nombre "prueba.htm"
+4. Abres tu archivo desde tu navegador de internet (Archivo, abrir, buscar, etc, etc)
+5. y... DEBERÍA funcionar!
 
 Un abrazo!
