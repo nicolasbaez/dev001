@@ -5,6 +5,10 @@ Mi primer programa!
   alert("Hola nicolas");
 </script>
 ```
-Acá voy a empezar a poner tooooooooooooooooooooooooooooooooooooodo lo que haga en el canal, pero estoy en el dilema de cómo ponerlo?
+Acá voy a empezar a poner t o o o d o o o lo que haga en el canal y estoy en el dilema de cómo ponerlo!
 
-Quiero ser ordenado y estoy buscando opciones!
+Cómo funciona?
+
+Sólo copia y pega en tu archivo, guardas y DEBERÍA funcionar!
+
+Un abrazo!
