@@ -5,7 +5,7 @@ Mi primer programa!
   alert("Hola nicolas");
 </script>
 ```
-Acá voy a empezar a poner t o o o d o o o lo que haga en el canal y estoy en el dilema de cómo ponerlo!
+Acá voy a empezar a poner **t o o o d o o o** lo que haga en el canal y estoy en el dilema de cómo ponerlo!
 
 Cómo funciona?
 
