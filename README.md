@@ -9,6 +9,8 @@ Acá voy a empezar a poner **t o o o d o o o** lo que haga en el canal y estoy e
 
 Cómo funciona?
 
-Sólo copia y pega en tu archivo, guardas y DEBERÍA funcionar!
+1. Copias y pegas las instrucciones en tu archivo
+2. Guardas 
+3. y... DEBERÍA funcionar!
 
 Un abrazo!
